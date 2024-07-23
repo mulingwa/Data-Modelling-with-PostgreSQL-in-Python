@@ -3,6 +3,8 @@ The project aims to create a ETL process on python with PostgreSQL for a fiction
 
 ## Data
 The data is obtained from [Kaggle](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database )
+## Database Schema 
+![alt text](image.png)
 
 ## Methodology
 1. Download the CSVs
@@ -13,4 +15,6 @@ The data is obtained from [Kaggle](https://www.kaggle.com/datasets/dillonmyrick/
     - Connect to the database
     - Define and create Tables
     - Data Upload to the database cretaed in 4(i)
+
+
 
